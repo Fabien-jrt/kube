@@ -1,0 +1,47 @@
+[
+    {
+        "patient_id": "8ac774aa-4f04-4ea5-83b5-296af7364be3",
+        "medication" : "microxidanol",
+        "taken_at": "2023-05-26T06:29:53Z"
+    },
+    {
+        "patient_id": "8c4db466-0eaf-4733-862f-bd6a19e4edbc",
+        "medication": "prednisone",
+        "taken_at": "2023-11-12T15:15:00Z"
+    },
+    {
+        "patient_id": "5d54e5af-d0bb-4f54-a562-06ad9ee63c58",
+        "medication": "ciprofloxacin",
+        "taken_at": "2023-10-27T18:20:00Z"
+    },
+    {
+        "patient_id": "2ef50735-5457-49b7-8602-29282a0db355",
+        "medication": "simvastatin",
+        "taken_at": "2023-10-10T10:00:00Z"
+    },
+    {
+        "patient_id": "bca398f9-96c1-43e7-9c9a-6747ebe8f69d",
+        "medication": "metformin",
+        "taken_at": "2023-09-25T13:45:00Z"
+    },
+    {
+        "patient_id": "ae6a4581-1ef3-4a93-8e08-1b7c97c74d32",
+        "medication": "omeprazole",
+        "taken_at": "2023-09-07T06:55:00Z"
+    },
+    {
+        "patient_id": "4f3a7ed8-f3f7-4853-9e1d-9e2a35d7eb48",
+        "medication": "loratadine",
+        "taken_at": "2023-08-20T11:10:00Z"
+    },
+    {
+        "patient_id": "f785b381-8d5a-45d6-9502-39634248995e",
+        "medication": "paracetamol",
+        "taken_at": "2023-07-18T08:00:00Z"
+    },
+    {
+        "patient_id": "1f904e31-dab4-4ef7-b9cf-62d9fd8ac07c",
+        "medication": "ibuprofen",
+        "taken_at": "2023-07-03T14:20:00Z"
+    }
+]
